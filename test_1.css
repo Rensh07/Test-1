@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* width: 100%; */
+    /* margin: 0 !important; */
+    /* max-width: 1200px;
+    margin: 0 auto; */
+}
+
+html {
+    font-size: 9px;
+}
+
+.header{
+    background-color: #999;
+    width: 100%;
+    height: 10rem;
+}
+
+/************************************/
+/* Section-1 */
+/************************************/
+
+.text-box-1{
+  width: 45%;
+  height: 10rem;
+  background-color: #999;
+  margin: 8rem auto;
+  clear: both;
+}
+
+.image-box {
+    width: 49%;
+    height: 66rem;
+    background-color: #999;
+    margin-bottom: 8rem;
+}
+
+.ib-left{
+    float: left;
+}
+.ib-right{
+    float: right;
+}
+
+/************************************/
+/* Section-2 */
+/************************************/
+
+.text-box-2{
+    width: 60%;
+    height: 10rem;
+    background-color: #999;
+    margin: 8rem auto;
+    clear: both;
+}
+
+.boxes {
+    /* height: 72rem; */
+}
+
+.main-box{
+    /* width: 100%; */
+    /* margin: 0 auto; */
+    /* height: 30vh; */
+    height: 30rem;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.mb1{
+    margin-bottom: 2rem;
+}
+
+.box {
+    background-color: #999;
+    width: 24.5%;
+    /* height: 30vh; */
+    height: 30rem;
+    margin: 0 1rem 2rem;
+}
+
+/************************************/
+/* Section-3 */
+/************************************/
+
+.text-box-3{
+    width: 70%;
+    height: 10rem;
+    background-color: #999;
+    margin: 8rem auto;
+    clear: both;
+}
+
+.box-3 {
+    /* width: 100%; */
+    /* height: 50vh; */
+    height: 75rem;
+    background-color: #999;
+    padding: 8rem;
+    overflow: hidden;
+    /* margin: 0 auto; */
+}
+
+.b-i-3 {
+    background-color: white;
+    width: 23%;
+    /* height: 45vh; */
+    height: 55rem;
+    margin: 2rem;
+}
+
+.b-i-3:nth-child(1){
+    margin-left: 15%;
+}
+
+.b-i {
+    margin: 3.5rem;
+    background-color: #999;
+}
+
+.i-1 {
+    height: 4rem;
+}
+.i-2 {
+    height: 35%;
+}
+.i-3 {
+    height: 34%;
+}
+
+/************************************/
+/* Section-4 */
+/************************************/
+
+.form {
+    /* height: 35vh; */
+    /* height: 95rem; */
+}
+
+.f-t-b{
+    height: 10rem;
+    background-color: #999;
+    margin: 8rem auto;
+    clear: both;
+}
+
+.t-sm {
+    width: 40%;
+    margin: 8rem auto 2rem;
+}
+.t-md {
+    width: 55%;
+    margin: 0 auto 2rem;
+}
+.t-lg {
+    width: 55%;
+    height: 35rem;
+    margin: 0 auto 2rem;
+}
+
+.btn {
+    width: 55%;
+    margin: 0 auto 8rem;
+    overflow: hidden;
+}
+
+.btn-2 {
+    width: 49%;
+    height: 10rem;
+    background-color: #999;
+    margin-bottom: 8rem auto;
+}
+
+/************************************/
+/* Footer Section */
+/************************************/
+
+.footer {
+    padding: 4rem;
+    width: 100%;
+    /* height: 25vh; */
+    height: 40rem;
+    clear: both;
+    background-color: #999;
+    margin-top: 8rem;
+}
+
+.foot {
+    background-color: white;
+    width: 49%;
+    /* height: 22.5vh; */
+    height: 32rem;
+}
